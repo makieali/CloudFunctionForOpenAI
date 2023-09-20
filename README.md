@@ -37,7 +37,7 @@ Install Dependencies:
 
 Install the necessary dependencies, including Axios, by running:
 
-bash
+
 
 npm install
 
